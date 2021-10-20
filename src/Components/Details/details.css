@@ -1,0 +1,21 @@
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+.slick-arrow.slick-prev,
+.slick-arrow.slick-next{
+background:grey;
+border-radius: 100%;
+}
+.btn-default{
+	background-color: #fff;
+}
+
+.input-group{
+	width: unset;
+	flex-wrap: nowrap;
+}
+.pad{
+width: 50px;
+height: 30px;
+margin-top: 20px;
+}

@@ -1,0 +1,146 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "category": "breakfast",
+        "name": "Bagel and Cream Cheese",
+        "price": 6.99,
+        "img": "https://i.ibb.co/R7hxg2X/breakfast6.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "B01LD4MGY4",
+        "category": "breakfast",
+        "name": "Breakfast Sandwich",
+        "price": 9.99,
+        "img": "https://i.ibb.co/cct6VXB/breakfast5.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "category": "breakfast",
+        "name": "Baked Chicken",
+        "price": 10.99,
+        "img": "https://i.ibb.co/jhrKvLT/breakfast4.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "B01M18UZF5",
+        "category": "breakfast",
+        "name": "Eggs Benedict",
+        "price": 8.99,
+        "img": "https://i.ibb.co/5YdyZPb/breakfast3.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "B01K1IO3QW",
+        "category": "breakfast",
+        "name": "Toast Croissant Fried egg",
+        "price": 19.88,
+        "img": "https://i.ibb.co/wNBTCjc/breakfast1.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "B01DBGVB7K",
+        "category": "breakfast",
+        "name": "Full BreakFast Fried Egg Brunch",
+        "price": 3.99,
+        "img": "https://i.ibb.co/3rtWqFW/breakfast2.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "B06Y4GZS9C",
+        "category": "lunch",
+        "name": "Healthy Meal plan",
+        "price": 23.99,
+        "img": "https://i.ibb.co/jVStF72/lunch5.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "B06XJJG4PD",
+        "category": "lunch",
+        "name": "Honey Soy glazed Salmon",
+        "price": 7.99,
+        "img": "https://i.ibb.co/LJm8Z1v/lunch6.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "B01NBE6Y5D",
+        "category": "lunch",
+        "name": "Beef Stake",
+        "price": 15.99,
+        "img": "https://i.ibb.co/4gRnGQM/lunch4.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "B01J42JPJG",
+        "category": "lunch",
+        "name": "Fried Chicken Bento",
+        "price": 9.99,
+        "img": "https://i.ibb.co/yQ9bG9T/lunch3.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "B01F4ZG68A",
+        "category": "lunch",
+        "name": "Taragon-Rubbed-Salmon",
+        "price": 6.99,
+        "img": "https://i.ibb.co/SsKSsS0/lunch2.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "B01D27ERMO",
+        "category": "lunch",
+        "name": "Indian Lunch",
+        "price": 8.99,
+        "img": "https://i.ibb.co/P4JzWHB/lunch1.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "B06X6J2RLY",
+        "category": "dinner",
+        "name": "Salmon with Grapefruit and Lentil Salad",
+        "price": 9.99,
+        "img": "https://i.ibb.co/tBtsYZs/dinner6.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "B01N5G5PG2",
+        "category": "dinner",
+        "name": "Lemony Salmon Piccata",
+        "price": 10.99,
+        "img": "https://i.ibb.co/xXBtsYL/dinner5.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "A01N5G5PG2",
+        "category": "dinner",
+        "name": "Pork Tenderlion With Quinoa Pilaf",
+        "price": 12.99,
+        "img": "https://i.ibb.co/Z8q5dv4/dinner4.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "A01N5G5PG3",
+        "category": "dinner",
+        "name": "French fries with Cheese",
+        "price": 8.99,
+        "img": "https://i.ibb.co/5L6mdXh/dinner1.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "A01N5G5Px4",
+        "category": "dinner",
+        "name": "Garlic Butter Baked Salmon",
+        "price": 6.99,
+        "img": "https://i.ibb.co/hfMxwKH/dinner2.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    },
+    {
+        "key": "A01N5G5PG4",
+        "category": "dinner",
+        "name": "Baked Chicken",
+        "price": 9.99,
+        "img": "https://i.ibb.co/GVNCDPC/dinner3.png",
+        "descript": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore pariatur. Explicabo aspernatur soluta non numquam dignissimos voluptatem. Reiciendis repudiandae maxime odit similique ipsum eos aliquid porro dignissimos, excepturi earum?"
+    }
+]

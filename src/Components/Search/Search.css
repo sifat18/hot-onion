@@ -1,0 +1,17 @@
+.search{
+    background-image: url('../../hot-onion-restaurent-master/bannerbackground.png');
+    min-height: 470px;
+    background-position: center;
+    background-size: 110% 100%;
+     }
+
+.box{
+    padding-top: 130px;
+    padding-left: 500px;
+    padding-right: 400px;
+}
+.se-btn{
+    position: relative;
+    left: -50px;
+    
+}
