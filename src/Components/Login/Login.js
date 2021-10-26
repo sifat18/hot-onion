@@ -27,14 +27,14 @@ const Login = () => {
         history.push('/home')
     }
     return (
-        <div className='reg text-center'>
+        <div className='reg text-center '>
             <img src={pic} alt="" className="img-fluid pt-5" height='300' width='300' />
             <form className=' pt-3' onSubmit={handleSign}>
                 <input className='inputs my-4 w-25' onBlur={hadleEmailblur} type="email" placeholder='email' name="email" id="email" />
                 <input className='inputs my-4 w-25' onBlur={hadlePassblur} type="password" placeholder='password' name="pass" id="pass" />
                 <button className='inputs btn-danger mt-2 w-25' type="submit">Login</button>
             </form >
-            <div className='text-center mt-5 '>
+            <div className='text-center mt-3 mb-5 pb-5 '>
                 <p>new user? <NavLink to='/signUp'>Click me</NavLink></p>
                 <p>-------OR------</p>
                 <button className='btn btn-success mb-5 ' onClick={handleLogin} >Google Sign In</button>

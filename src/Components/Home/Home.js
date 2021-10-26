@@ -23,10 +23,10 @@ const Home = () => {
     return (
         <Container className='my-5 '>
             {/* categorys */}
-            <Row className="justify-content-md-center mb-5">
-                <Col xs md="1"><span className='spanSlide pe-3' onClick={() => handleCategory('breakfast')}>BreakFast</span></Col>
-                <Col md="auto"><span className='spanSlide px-2' onClick={() => handleCategory('lunch')}>Lunch</span>  </Col>
-                <Col xs md="1"> <span className='spanSlide px-2' onClick={() => handleCategory('dinner')} >Dinner</span> </Col>
+            <Row className="justify-content-center mb-5">
+                <Col xs='auto' lg="auto"><span className='spanSlide pe-3' onClick={() => handleCategory('breakfast')}>BreakFast</span></Col>
+                <Col xs='auto' md="auto"><span className='spanSlide px-2' onClick={() => handleCategory('lunch')}>Lunch</span>  </Col>
+                <Col xs='auto' lg="auto"> <span className='spanSlide px-2' onClick={() => handleCategory('dinner')} >Dinner</span> </Col>
             </Row>
             {/* display */}
             <Row xs={1} md={2} lg={3} className="g-5">

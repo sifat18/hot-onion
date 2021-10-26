@@ -6,7 +6,7 @@ import logo2 from '../../hot-onion-restaurent-master/logo2.png'
 const Header = () => {
     const { user, logOut } = useAuth()
     return (
-        <Navbar fixed bg="light" variant="light">
+        <Navbar collapseOnSelect expand="lg" fixed bg="light" variant="light">
             <Container>
                 <NavLink to='/home'> <Navbar.Brand href="/home">
                     <img
@@ -17,17 +17,20 @@ const Header = () => {
                         alt="React Bootstrap logo"
                     />
                 </Navbar.Brand></NavLink>
-                <Nav className="ms-auto">
-                    <NavLink to='/cart'><Nav.Link href="/cart"><i class="fas fa-shopping-cart"></i></Nav.Link></NavLink>
-                    <NavLink to='/home'><Nav.Link href="/home">Home</Nav.Link></NavLink>
-                    <NavLink to='/signUp'><Nav.Link href="/signUp">SignUp</Nav.Link></NavLink>
-                    {!user.email ?
-                        <NavLink to='/login'><Nav.Link href="/login">Login</Nav.Link></NavLink>
-                        :
-                        <Nav.Link onClick={logOut}>LogOut</Nav.Link>
-                        // <button onClick={logOut}>LogOut</button>
-                    }
-                </Nav>
+                <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+                <Navbar.Collapse id="responsive-navbar-nav">
+                    <Nav className="ms-auto">
+                        <NavLink to='/cart'><Nav.Link href="/cart"><i class="fas fa-shopping-cart"></i></Nav.Link></NavLink>
+                        <NavLink to='/home'><Nav.Link href="/home">Home</Nav.Link></NavLink>
+                        <NavLink to='/signUp'><Nav.Link href="/signUp">SignUp</Nav.Link></NavLink>
+                        {!user.email ?
+                            <NavLink to='/login'><Nav.Link href="/login">Login</Nav.Link></NavLink>
+                            :
+                            <Nav.Link onClick={logOut}>LogOut</Nav.Link>
+                            // <button onClick={logOut}>LogOut</button>
+                        }
+                    </Nav>
+                </Navbar.Collapse>
             </Container>
         </Navbar>
     );

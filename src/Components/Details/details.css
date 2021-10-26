@@ -14,8 +14,11 @@ border-radius: 100%;
 	width: unset;
 	flex-wrap: nowrap;
 }
+input[type=number] {
+	-moz-appearance: textfield;
+  }
 .pad{
 width: 50px;
-height: 30px;
+height: 10px;
 margin-top: 20px;
 }

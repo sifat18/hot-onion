@@ -1,7 +1,8 @@
 .footer{
-    height: 25vh;
+    min-height:150px;
     margin-top:auto;
     background-color: black;
+    /* margin-top: 30px; */
 }
 .foodiv{
     padding-top: 5px;

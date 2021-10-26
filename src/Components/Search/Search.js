@@ -1,14 +1,14 @@
 import React from 'react';
-import { InputGroup, Button, FormControl } from 'react-bootstrap';
+import { InputGroup, Button, FormControl, Container } from 'react-bootstrap';
 import './Search.css';
 
 const Search = () => {
     return (
 
-        <div className='search'>
-            <div className="box">
-                <p className='fs-1 fw-normal'>Best Food waiting for your belly</p>
-                <InputGroup className='w-75 ps-5 ms-5 '>
+        <Container fluid className='search'>
+            <Container className="d-flex box flex-column justify-content-center align-items-center">
+                <p className='fs-1 fw-normal mx-3 px-2'>Best Food waiting for your belly</p>
+                <InputGroup className='sbox '>
                     <FormControl className='rounded-pill '
                         placeholder="Recipient's username"
                         aria-label="Recipient's username"
@@ -17,7 +17,7 @@ const Search = () => {
                         Button
                     </Button>
                 </InputGroup>
-            </div>   </div>
+            </Container>   </Container>
     );
 };
 
