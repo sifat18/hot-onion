@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Welcome to hot-onion restaurant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project link [Hot](https://hot-onion-restaurent-12d64.web.app/).
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Customers can order food for their breakfast, lunch and dinner
+- Any amount of orders can be placed 
+- to checkout users have to login
+- in the checkout page they can review their order and see the price list
+- A react project using bootstrap, react router and local storage
 
 ### `npm start`
 
